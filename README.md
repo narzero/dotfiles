@@ -1,16 +1,3 @@
-![](.screenshot.jpg)
+# narzero/dotfiles
 
-## Installation
-
-```bash
-$ cd ~
-$ git clone git@github.com:chrishunt/dot-files.git .
-$ ./script/setup
-```
-
-## Updating
-
-```bash
-$ cd ~
-$ ./script/setup
-```
+A collection of my dotfiles.
